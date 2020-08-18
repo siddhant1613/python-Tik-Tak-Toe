@@ -1,2 +1,2 @@
-# python-Tik-Tak-Toe-
+# python-Tik-Tak-Toe
 Tik-Tak_toe game using python
